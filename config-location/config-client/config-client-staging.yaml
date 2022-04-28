@@ -1,0 +1,3 @@
+server:
+ name:dev
+ port:8080

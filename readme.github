@@ -1,1 +1,9 @@
 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
+
+ curl localhost:8085/actuator/refresh -d {} -H "Content-Type: application/json"
+
+ git config --global user.email "mrkumarji@yahoo.com"
+ git config --global user.name  "mrkumarji"
+ git config --global credential.helper cache
+
+

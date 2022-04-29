@@ -1,5 +1,4 @@
-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
-
+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
  curl localhost:8085/actuator/refresh -d {} -H "Content-Type: application/json"
 
  git config --global user.email "mrkumarji@yahoo.com"

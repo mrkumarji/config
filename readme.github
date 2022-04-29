@@ -10,3 +10,5 @@ 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
 
  git add *  ; git commit -m"s" ; git push
 
+java -jar target/client-0.0.1-SNAPSHOT.jar  --spring.profiles.active=dev  --spring.cloud.config.label=branch1
+

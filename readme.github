@@ -7,3 +7,5 @@ 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
  git config --global credential.helper cache
 
 
+ git add *  ; git commit -m"s" ; git push
+

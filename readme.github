@@ -1,5 +1,4 @@
-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
-
+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
 
  curl localhost:8085/actuator/refresh -d {} -H "Content-Type: application/json"
 

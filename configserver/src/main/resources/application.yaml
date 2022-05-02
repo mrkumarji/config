@@ -6,3 +6,12 @@ spring:
       server:
         git:
           uri: https://github.com/mrkumarji/config
+          repos:
+            dev:
+              pattern: '*/default'
+              uri: https://github.com/mrkumarji/config
+              searchPaths: dev
+            qa:
+              pattern: '*/qa'
+              uri: https://github.com/mrkumarji/config
+              searchPaths: qa
